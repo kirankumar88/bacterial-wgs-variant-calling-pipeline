@@ -1,0 +1,11 @@
+FastQC
+fastp
+BWA
+Samtools
+FreeBayes
+bcftools
+SnpEff
+Java
+Python
+Streamlit
+WSL or Linux environment

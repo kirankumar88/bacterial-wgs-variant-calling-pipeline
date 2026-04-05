@@ -1,0 +1,23 @@
+# Workflow Diagram
+
+Input FASTQ
+    ↓
+FastQC (Quality Control)
+    ↓
+fastp (Trimming)
+    ↓
+BWA Alignment
+    ↓
+SAM → BAM → Sorted BAM (Samtools)
+    ↓
+Variant Calling (FreeBayes)
+    ↓
+Variant Filtering
+    ↓
+Annotation (SnpEff)
+    ↓
+Variant Table (TSV)
+    ↓
+Variant Summary
+    ↓
+Results
