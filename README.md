@@ -66,7 +66,7 @@ Installation
 -------------------------------------------------------
 # Clone the repository and create the conda environment.
 
-git clone https://github.com/YOUR_USERNAME/bacterial-variant-analysis-pipeline.git
+git clone https://github.com/kirankumar88/bacterial-wgs-variant-calling-pipeline.git
 cd bacterial-variant-analysis-pipeline
 conda env create -f environment.yml
 conda activate bioinfo
