@@ -4,6 +4,9 @@ Overview
 This project provides a local web-based bacterial variant analysis pipeline for whole genome sequencing (WGS) data. The pipeline performs quality control, read trimming, alignment to a reference genome, variant calling, filtering, annotation, and generation of variant tables and summary reports. The pipeline is executed through a Streamlit web interface and runs locally.
 
 This pipeline works for any bacterial genome using user-provided reference genome (FASTA) and annotation (GFF) files.
+
+<img width="1693" height="929" alt="ChatGPT Image Apr 25, 2026, 10_15_38 AM" src="https://github.com/user-attachments/assets/faa4e1f7-d80e-4d74-8179-e8de43f0969b" />
+
 -----------------------------------------
 # Features
 FASTQ Quality Control using FastQC
